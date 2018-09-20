@@ -1,0 +1,37 @@
+_repo: The-History-of-the-Assassins-Derived-from-Oriental-Sources_53023
+_version: 0.0.1
+alternative_title: Die Geschichte der Assassinen. English
+contributor:
+  translator:
+    agent_name: Wood, Oswald Charles
+    gutenberg_agent_id: '49054'
+    url: http://www.gutenberg.org/2009/agents/49054
+creator:
+  author:
+    agent_name: Hammer-Purgstall, Joseph, Freiherr von
+    aliases:
+    - Purgstall, Joseph Hammer, Freiherr von
+    - Hammer, Joseph von
+    - Von Hammer, Joseph
+    - Von Purgstall, Joseph Hammer, Freiherr
+    birthdate: 1774
+    deathdate: 1856
+    gutenberg_agent_id: '35427'
+    url: http://www.gutenberg.org/2009/agents/35427
+    wikipedia: http://de.wikipedia.org/wiki/Joseph_von_Hammer-Purgstall
+description: ''
+gutenberg_issued: '2016-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53023'
+  lccn: '01027020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assassins (Ismailites)'
+- !lcc 'DS'
+- GITenberg
+title: The History of the Assassins, Derived from Oriental Sources
+url: http://www.gutenberg.org/ebooks/53023
