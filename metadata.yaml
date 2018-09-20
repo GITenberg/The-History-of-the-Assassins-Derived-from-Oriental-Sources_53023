@@ -6,6 +6,9 @@ contributor:
     agent_name: Wood, Oswald Charles
     gutenberg_agent_id: '49054'
     url: http://www.gutenberg.org/2009/agents/49054
+covers:
+- cover_type: archival
+  image_path: 53023-h/images/cover.jpg
 creator:
   author:
     agent_name: Hammer-Purgstall, Joseph, Freiherr von
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35427
     wikipedia: http://de.wikipedia.org/wiki/Joseph_von_Hammer-Purgstall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53023#The-History-of-the-Assassins-Derived-from-Oriental-Sources
 gutenberg_issued: '2016-09-10'
 gutenberg_type: Text
 identifiers:
